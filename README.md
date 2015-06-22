@@ -11,3 +11,30 @@ Your computer was just stolen. You just need to get up and running -- you're not
 In any of these scenarios, it's very common for people to do something along these lines, in no specific order:
 Download applications as they remember what apps they used to have.
 Setup command line tools willy-nilly, unless they had maintained some .dotfiles.
+
+
+The Goods
+Download Applications
+Free
+Alfred
+Chrome
+Firefox
+Webkit
+Opera
+iTerm
+FileZilla
+Sublime Text
+LiveReload
+LiveReload Extensions
+Sequel Pro
+
+Paid
+
+1Password
+Bartender
+Stats App
+kaleidoscope diff tool
+Moom
+
+
+You must first:
